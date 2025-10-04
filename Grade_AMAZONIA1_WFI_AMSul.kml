@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="grid_amazonia1_wfi_sa" id="grid_amazonia1_wfi_sa">
+	<SimpleField name="ROW" type="int"></SimpleField>
+	<SimpleField name="PATH" type="int"></SimpleField>
+	<SimpleField name="PATH_ROW" type="string"></SimpleField>
+</Schema>
+<Folder><name>grid_amazonia1_wfi_sa</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">14</SimpleData>
+		<SimpleData name="PATH">32</SimpleData>
+		<SimpleData name="PATH_ROW">32_14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-32.504903,3.144937 -30.964625,10.375337 -23.673373,8.77283 -25.31189,1.54614 -32.504903,3.144937</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">15</SimpleData>
+		<SimpleData name="PATH">32</SimpleData>
+		<SimpleData name="PATH_ROW">32_15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-33.810224,-2.805213 -32.242177,4.401455 -25.035256,2.82358 -26.620253,-4.419895 -33.810224,-2.805213</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">16</SimpleData>
+		<SimpleData name="PATH">32</SimpleData>
+		<SimpleData name="PATH_ROW">32_16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-35.180047,-8.775547 -33.538491,-1.544445 -26.353706,-3.150851 -27.889008,-10.368424 -35.180047,-8.775547</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">17</SimpleData>
+		<SimpleData name="PATH">32</SimpleData>
+		<SimpleData name="PATH_ROW">32_17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.613895,-14.716077 -34.892561,-7.506016 -27.628476,-9.102295 -29.157701,-16.340341 -36.613895,-14.716077</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">18</SimpleData>
+		<SimpleData name="PATH">32</SimpleData>
+		<SimpleData name="PATH_ROW">32_18</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-38.144678,-20.642422 -36.312585,-13.46144 -28.8928,-15.053355 -30.437361,-22.305146 -38.144678,-20.642422</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">19</SimpleData>
+		<SimpleData name="PATH">32</SimpleData>
+		<SimpleData name="PATH_ROW">32_19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-39.807442,-26.549652 -37.824623,-19.406301 -30.164884,-21.001331 -31.748928,-28.260223 -39.807442,-26.549652</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">20</SimpleData>
+		<SimpleData name="PATH">32</SimpleData>
+		<SimpleData name="PATH_ROW">32_20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-41.664766,-32.451764 -39.452447,-25.312849 -31.471848,-26.962185 -33.105841,-34.186693 -41.664766,-32.451764</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">21</SimpleData>
+		<SimpleData name="PATH">32</SimpleData>
+		<SimpleData name="PATH_ROW">32_21</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-43.76458,-38.304105 -41.266103,-31.21172 -32.812971,-32.889818 -34.560391,-40.12532 -43.76458,-38.304105</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">22</SimpleData>
+		<SimpleData name="PATH">32</SimpleData>
+		<SimpleData name="PATH_ROW">32_22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-46.208152,-44.110833 -43.311713,-37.082034 -34.238716,-38.807796 -36.157026,-46.045738 -46.208152,-44.110833</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">23</SimpleData>
+		<SimpleData name="PATH">32</SimpleData>
+		<SimpleData name="PATH_ROW">32_23</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-49.161225,-49.868826 -45.66796,-42.897418 -35.804544,-44.728514 -37.960346,-51.930979 -49.161225,-49.868826</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">24</SimpleData>
+		<SimpleData name="PATH">32</SimpleData>
+		<SimpleData name="PATH_ROW">32_24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-52.850478,-55.524647 -48.503677,-48.665796 -37.547068,-50.612753 -40.117991,-57.812497 -52.850478,-55.524647</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">14</SimpleData>
+		<SimpleData name="PATH">33</SimpleData>
+		<SimpleData name="PATH_ROW">33_14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-37.507466,3.140644 -35.96341,10.379929 -28.674331,8.769589 -30.309622,1.549093 -37.507466,3.140644</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">15</SimpleData>
+		<SimpleData name="PATH">33</SimpleData>
+		<SimpleData name="PATH_ROW">33_15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-38.814617,-2.810571 -37.242054,4.407894 -30.03437,2.821378 -31.616907,-4.418745 -38.814617,-2.810571</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">16</SimpleData>
+		<SimpleData name="PATH">33</SimpleData>
+		<SimpleData name="PATH_ROW">33_16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-40.169445,-8.75593 -38.546278,-1.565039 -31.346727,-3.132875 -32.898614,-10.385613 -40.169445,-8.75593</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">17</SimpleData>
+		<SimpleData name="PATH">33</SimpleData>
+		<SimpleData name="PATH_ROW">33_17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-41.613815,-14.718616 -39.889621,-7.504192 -32.632095,-9.107165 -34.157143,-16.334812 -41.613815,-14.718616</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">18</SimpleData>
+		<SimpleData name="PATH">33</SimpleData>
+		<SimpleData name="PATH_ROW">33_18</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-43.1465,-20.645882 -41.310729,-13.457872 -33.894554,-15.057061 -35.435684,-22.301521 -43.1465,-20.645882</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">19</SimpleData>
+		<SimpleData name="PATH">33</SimpleData>
+		<SimpleData name="PATH_ROW">33_19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-44.811131,-26.553883 -42.823826,-19.401172 -35.164817,-21.003898 -36.746149,-28.258371 -44.811131,-26.553883</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">20</SimpleData>
+		<SimpleData name="PATH">33</SimpleData>
+		<SimpleData name="PATH_ROW">33_20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-46.655054,-32.436547 -44.462238,-25.328907 -36.46303,-26.945181 -38.114318,-34.202978 -46.655054,-32.436547</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">21</SimpleData>
+		<SimpleData name="PATH">33</SimpleData>
+		<SimpleData name="PATH_ROW">33_21</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-48.765188,-38.306177 -46.263147,-31.209971 -37.816187,-32.893758 -39.559586,-40.121215 -48.765188,-38.306177</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">22</SimpleData>
+		<SimpleData name="PATH">33</SimpleData>
+		<SimpleData name="PATH_ROW">33_22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-51.210907,-44.113574 -48.309954,-37.07885 -39.239949,-38.81045 -41.154865,-46.043417 -51.210907,-44.113574</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">23</SimpleData>
+		<SimpleData name="PATH">33</SimpleData>
+		<SimpleData name="PATH_ROW">33_23</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.150913,-49.858093 -50.679325,-42.908442 -40.793723,-44.715256 -42.96971,-51.943909 -54.150913,-49.858093</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">24</SimpleData>
+		<SimpleData name="PATH">33</SimpleData>
+		<SimpleData name="PATH_ROW">33_24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-57.852522,-55.526301 -53.501014,-48.664076 -42.549573,-50.61521 -45.116195,-57.81016 -57.852522,-55.526301</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">14</SimpleData>
+		<SimpleData name="PATH">34</SimpleData>
+		<SimpleData name="PATH_ROW">34_14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-42.508665,3.137164 -40.961365,10.383175 -33.676653,8.765543 -35.308184,1.553416 -42.508665,3.137164</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">15</SimpleData>
+		<SimpleData name="PATH">34</SimpleData>
+		<SimpleData name="PATH_ROW">34_15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-43.81764,-2.815121 -42.241096,4.412965 -35.034859,2.818356 -36.614389,-4.416213 -43.81764,-2.815121</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">16</SimpleData>
+		<SimpleData name="PATH">34</SimpleData>
+		<SimpleData name="PATH_ROW">34_16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-45.174285,-8.761459 -43.546389,-1.558191 -36.345395,-3.134834 -37.895032,-10.384874 -45.174285,-8.761459</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">17</SimpleData>
+		<SimpleData name="PATH">34</SimpleData>
+		<SimpleData name="PATH_ROW">34_17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-46.61241,-14.720345 -44.885841,-7.503694 -37.637031,-9.112844 -39.157432,-16.328017 -46.61241,-14.720345</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">18</SimpleData>
+		<SimpleData name="PATH">34</SimpleData>
+		<SimpleData name="PATH_ROW">34_18</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-48.147019,-20.648613 -46.308079,-13.455579 -38.897612,-15.061515 -40.434801,-22.296687 -48.147019,-20.648613</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">19</SimpleData>
+		<SimpleData name="PATH">34</SimpleData>
+		<SimpleData name="PATH_ROW">34_19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-49.813574,-26.557448 -47.82226,-19.397221 -40.166002,-21.007169 -41.744133,-28.25541 -49.813574,-26.557448</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">20</SimpleData>
+		<SimpleData name="PATH">34</SimpleData>
+		<SimpleData name="PATH_ROW">34_20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-51.659384,-32.440744 -49.461695,-25.323528 -41.462393,-26.94735 -43.111217,-34.201713 -51.659384,-32.440744</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">21</SimpleData>
+		<SimpleData name="PATH">34</SimpleData>
+		<SimpleData name="PATH_ROW">34_21</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-53.764587,-38.307873 -51.259688,-31.209262 -42.820616,-32.898107 -44.559282,-40.116177 -53.764587,-38.307873</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">22</SimpleData>
+		<SimpleData name="PATH">34</SimpleData>
+		<SimpleData name="PATH_ROW">34_22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-56.212554,-44.11601 -53.307729,-37.076552 -44.242306,-38.813456 -46.153157,-46.040309 -56.212554,-44.11601</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">23</SimpleData>
+		<SimpleData name="PATH">34</SimpleData>
+		<SimpleData name="PATH_ROW">34_23</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-59.154939,-49.860765 -55.677941,-42.904791 -45.793891,-44.717298 -47.966973,-51.942565 -59.154939,-49.860765</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">24</SimpleData>
+		<SimpleData name="PATH">34</SimpleData>
+		<SimpleData name="PATH_ROW">34_24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-62.853576,-55.527925 -58.498221,-48.663016 -47.553117,-50.617745 -50.114487,-57.807253 -62.853576,-55.527925</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">14</SimpleData>
+		<SimpleData name="PATH">35</SimpleData>
+		<SimpleData name="PATH_ROW">35_14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-47.508498,3.134499 -45.958493,10.385068 -38.680336,8.760699 -40.307578,1.559105 -47.508498,3.134499</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">15</SimpleData>
+		<SimpleData name="PATH">35</SimpleData>
+		<SimpleData name="PATH_ROW">35_15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-48.819299,-2.818848 -47.239295,4.416669 -40.036715,2.814507 -41.612713,-4.41231 -48.819299,-2.818848</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">16</SimpleData>
+		<SimpleData name="PATH">35</SimpleData>
+		<SimpleData name="PATH_ROW">35_16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-50.177771,-8.766184 -48.545658,-1.5527 -41.345425,-3.137621 -42.892284,-10.382785 -50.177771,-8.766184</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">17</SimpleData>
+		<SimpleData name="PATH">35</SimpleData>
+		<SimpleData name="PATH_ROW">35_17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-51.606066,-14.703858 -49.896522,-7.51953 -42.625693,-9.092381 -44.164235,-16.349156 -51.606066,-14.703858</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">18</SimpleData>
+		<SimpleData name="PATH">35</SimpleData>
+		<SimpleData name="PATH_ROW">35_18</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-53.146221,-20.65063 -51.304656,-13.454576 -43.90198,-15.066697 -45.434697,-22.290639 -53.146221,-20.65063</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">19</SimpleData>
+		<SimpleData name="PATH">35</SimpleData>
+		<SimpleData name="PATH_ROW">35_19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.814763,-26.560354 -52.819937,-19.394461 -45.168445,-21.011129 -46.742872,-28.251339 -54.814763,-26.560354</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">20</SimpleData>
+		<SimpleData name="PATH">35</SimpleData>
+		<SimpleData name="PATH_ROW">35_20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-56.662527,-32.444363 -54.460437,-25.319225 -46.462955,-26.950144 -48.108822,-34.199452 -56.662527,-32.444363</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">21</SimpleData>
+		<SimpleData name="PATH">35</SimpleData>
+		<SimpleData name="PATH_ROW">35_21</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-58.756182,-38.294681 -56.270787,-31.222623 -47.809904,-32.88141 -49.566995,-40.132607 -58.756182,-38.294681</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">22</SimpleData>
+		<SimpleData name="PATH">35</SimpleData>
+		<SimpleData name="PATH_ROW">35_22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-61.213303,-44.117831 -58.304665,-37.074979 -49.245539,-38.817093 -51.152312,-46.036606 -61.213303,-44.117831</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">23</SimpleData>
+		<SimpleData name="PATH">35</SimpleData>
+		<SimpleData name="PATH_ROW">35_23</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-64.157862,-49.863355 -60.676349,-42.901951 -50.795214,-44.719485 -52.964398,-51.940489 -64.157862,-49.863355</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">24</SimpleData>
+		<SimpleData name="PATH">35</SimpleData>
+		<SimpleData name="PATH_ROW">35_24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-67.839415,-55.518122 -63.508782,-48.674237 -52.544502,-50.607133 -55.126269,-57.816872 -67.839415,-55.518122</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">14</SimpleData>
+		<SimpleData name="PATH">36</SimpleData>
+		<SimpleData name="PATH_ROW">36_14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-52.506961,3.132653 -50.954799,10.385605 -43.685378,8.755061 -45.307804,1.566155 -52.506961,3.132653</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">15</SimpleData>
+		<SimpleData name="PATH">36</SimpleData>
+		<SimpleData name="PATH_ROW">36_15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-53.819581,-2.82176 -52.236665,4.418993 -45.039945,2.809848 -46.611867,-4.407033 -53.819581,-2.82176</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">16</SimpleData>
+		<SimpleData name="PATH">36</SimpleData>
+		<SimpleData name="PATH_ROW">36_16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-55.179894,-8.770111 -53.544098,-1.548576 -46.346823,-3.141221 -47.890361,-10.379343 -55.179894,-8.770111</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">17</SimpleData>
+		<SimpleData name="PATH">36</SimpleData>
+		<SimpleData name="PATH_ROW">36_17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-56.610016,-14.708697 -54.896017,-7.513691 -47.625276,-9.094896 -49.161247,-16.347516 -56.610016,-14.708697</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">18</SimpleData>
+		<SimpleData name="PATH">36</SimpleData>
+		<SimpleData name="PATH_ROW">36_18</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-58.137116,-20.633362 -56.313938,-13.4724 -48.89323,-15.048179 -50.443059,-22.308734 -58.137116,-20.633362</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">19</SimpleData>
+		<SimpleData name="PATH">36</SimpleData>
+		<SimpleData name="PATH_ROW">36_19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-59.814706,-26.562578 -57.816841,-19.392883 -50.17213,-21.015793 -51.742388,-28.246174 -59.814706,-26.562578</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">20</SimpleData>
+		<SimpleData name="PATH">36</SimpleData>
+		<SimpleData name="PATH_ROW">36_20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-61.664497,-32.447372 -59.458435,-25.315987 -51.464694,-26.953584 -53.107168,-34.196216 -61.664497,-32.447372</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">21</SimpleData>
+		<SimpleData name="PATH">36</SimpleData>
+		<SimpleData name="PATH_ROW">36_21</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-63.760128,-38.298273 -61.269832,-31.218004 -52.809767,-32.883716 -54.564197,-40.13107 -63.760128,-38.298273</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">22</SimpleData>
+		<SimpleData name="PATH">36</SimpleData>
+		<SimpleData name="PATH_ROW">36_22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-66.199541,-44.104147 -63.313458,-37.090884 -54.239389,-38.803831 -56.16309,-46.048189 -66.199541,-44.104147</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">23</SimpleData>
+		<SimpleData name="PATH">36</SimpleData>
+		<SimpleData name="PATH_ROW">36_23</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.160034,-49.865351 -65.673869,-42.899666 -55.797249,-44.722279 -57.962751,-51.937992 -69.160034,-49.865351</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">24</SimpleData>
+		<SimpleData name="PATH">36</SimpleData>
+		<SimpleData name="PATH_ROW">36_24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.843977,-55.520475 -68.507446,-48.670843 -57.544455,-50.608784 -60.123167,-57.815901 -72.843977,-55.520475</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">14</SimpleData>
+		<SimpleData name="PATH">37</SimpleData>
+		<SimpleData name="PATH_ROW">37_14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-57.500973,3.150028 -55.965017,10.369395 -48.673787,8.775271 -50.314977,1.544568 -57.500973,3.150028</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">15</SimpleData>
+		<SimpleData name="PATH">37</SimpleData>
+		<SimpleData name="PATH_ROW">37_15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-58.8185,-2.823832 -57.233188,4.419948 -50.044532,2.804363 -51.611876,-4.400401 -58.8185,-2.823832</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">16</SimpleData>
+		<SimpleData name="PATH">37</SimpleData>
+		<SimpleData name="PATH_ROW">37_16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-60.18066,-8.773222 -58.541697,-1.545816 -51.349577,-3.145644 -52.88928,-10.374562 -60.18066,-8.773222</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">17</SimpleData>
+		<SimpleData name="PATH">37</SimpleData>
+		<SimpleData name="PATH_ROW">37_17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-61.612625,-14.712774 -59.894698,-7.509187 -52.626206,-9.098199 -54.159065,-16.344575 -61.612625,-14.712774</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">18</SimpleData>
+		<SimpleData name="PATH">37</SimpleData>
+		<SimpleData name="PATH_ROW">37_18</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-63.141541,-20.63826 -61.313668,-13.466292 -53.892367,-15.050381 -55.439807,-22.307543 -63.141541,-20.63826</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">19</SimpleData>
+		<SimpleData name="PATH">37</SimpleData>
+		<SimpleData name="PATH_ROW">37_19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-64.802479,-26.54481 -62.824702,-19.412635 -55.16624,-20.999423 -56.752413,-28.260931 -64.802479,-26.54481</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">20</SimpleData>
+		<SimpleData name="PATH">37</SimpleData>
+		<SimpleData name="PATH_ROW">37_20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-66.665198,-32.44991 -64.455847,-25.313901 -56.467709,-26.957534 -58.106094,-34.191917 -66.665198,-32.44991</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">21</SimpleData>
+		<SimpleData name="PATH">37</SimpleData>
+		<SimpleData name="PATH_ROW">37_21</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.762905,-38.301451 -66.268311,-31.214389 -57.810817,-32.886486 -59.561951,-40.128617 -68.762905,-38.301451</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">22</SimpleData>
+		<SimpleData name="PATH">37</SimpleData>
+		<SimpleData name="PATH_ROW">37_22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.204381,-44.107662 -68.312848,-37.086032 -59.238507,-38.805613 -61.159805,-46.047346 -71.204381,-44.107662</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">23</SimpleData>
+		<SimpleData name="PATH">37</SimpleData>
+		<SimpleData name="PATH_ROW">37_23</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.161097,-49.86726 -70.671183,-42.898196 -60.800433,-44.725214 -62.961274,-51.934771 -74.161097,-49.86726</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">24</SimpleData>
+		<SimpleData name="PATH">37</SimpleData>
+		<SimpleData name="PATH_ROW">37_24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-77.847536,-55.522836 -73.506016,-48.668115 -62.545487,-50.610492 -65.120089,-57.814335 -77.847536,-55.522836</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">14</SimpleData>
+		<SimpleData name="PATH">38</SimpleData>
+		<SimpleData name="PATH_ROW">38_14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-62.504903,3.144937 -60.964625,10.375337 -53.673373,8.77283 -55.31189,1.54614 -62.504903,3.144937</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">15</SimpleData>
+		<SimpleData name="PATH">38</SimpleData>
+		<SimpleData name="PATH_ROW">38_15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-63.810216,-2.805225 -62.242189,4.401447 -55.035264,2.823592 -56.620241,-4.419888 -63.810216,-2.805225</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">16</SimpleData>
+		<SimpleData name="PATH">38</SimpleData>
+		<SimpleData name="PATH_ROW">38_16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-65.180047,-8.775547 -63.538491,-1.544445 -56.353706,-3.150851 -57.889008,-10.368424 -65.180047,-8.775547</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">17</SimpleData>
+		<SimpleData name="PATH">38</SimpleData>
+		<SimpleData name="PATH_ROW">38_17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-66.613879,-14.716102 -64.892586,-7.506031 -57.628493,-9.102271 -59.157676,-16.340325 -66.613879,-14.716102</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">18</SimpleData>
+		<SimpleData name="PATH">38</SimpleData>
+		<SimpleData name="PATH_ROW">38_18</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.144678,-20.642422 -66.312585,-13.46144 -58.8928,-15.053355 -60.437361,-22.305146 -68.144678,-20.642422</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">19</SimpleData>
+		<SimpleData name="PATH">38</SimpleData>
+		<SimpleData name="PATH_ROW">38_19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.807442,-26.549652 -67.824623,-19.406301 -60.164884,-21.001331 -61.748928,-28.260223 -69.807442,-26.549652</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">20</SimpleData>
+		<SimpleData name="PATH">38</SimpleData>
+		<SimpleData name="PATH_ROW">38_20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.664766,-32.451764 -69.452447,-25.312849 -61.471848,-26.962185 -63.105841,-34.186693 -71.664766,-32.451764</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">21</SimpleData>
+		<SimpleData name="PATH">38</SimpleData>
+		<SimpleData name="PATH_ROW">38_21</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.76458,-38.304105 -71.266103,-31.21172 -62.812971,-32.889818 -64.560391,-40.12532 -73.76458,-38.304105</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">22</SimpleData>
+		<SimpleData name="PATH">38</SimpleData>
+		<SimpleData name="PATH_ROW">38_22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-76.208152,-44.110833 -73.311713,-37.082034 -64.238716,-38.807796 -66.157026,-46.045738 -76.208152,-44.110833</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">23</SimpleData>
+		<SimpleData name="PATH">38</SimpleData>
+		<SimpleData name="PATH_ROW">38_23</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.161225,-49.868826 -75.66796,-42.897418 -65.804544,-44.728514 -67.960346,-51.930979 -79.161225,-49.868826</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">24</SimpleData>
+		<SimpleData name="PATH">38</SimpleData>
+		<SimpleData name="PATH_ROW">38_24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-82.850478,-55.524647 -78.503677,-48.665796 -67.547068,-50.612753 -70.117991,-57.812497 -82.850478,-55.524647</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">14</SimpleData>
+		<SimpleData name="PATH">39</SimpleData>
+		<SimpleData name="PATH_ROW">39_14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-67.507466,3.140644 -65.96341,10.379929 -58.674331,8.769589 -60.309622,1.549093 -67.507466,3.140644</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">15</SimpleData>
+		<SimpleData name="PATH">39</SimpleData>
+		<SimpleData name="PATH_ROW">39_15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.814617,-2.810571 -67.242054,4.407894 -60.03437,2.821378 -61.616907,-4.418745 -68.814617,-2.810571</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">16</SimpleData>
+		<SimpleData name="PATH">39</SimpleData>
+		<SimpleData name="PATH_ROW">39_16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-70.169445,-8.75593 -68.546278,-1.565039 -61.346727,-3.132875 -62.898614,-10.385613 -70.169445,-8.75593</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">17</SimpleData>
+		<SimpleData name="PATH">39</SimpleData>
+		<SimpleData name="PATH_ROW">39_17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.613815,-14.718616 -69.889621,-7.504192 -62.632095,-9.107165 -64.157143,-16.334812 -71.613815,-14.718616</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">18</SimpleData>
+		<SimpleData name="PATH">39</SimpleData>
+		<SimpleData name="PATH_ROW">39_18</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.1465,-20.645882 -71.310729,-13.457872 -63.894554,-15.057061 -65.435684,-22.301521 -73.1465,-20.645882</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">19</SimpleData>
+		<SimpleData name="PATH">39</SimpleData>
+		<SimpleData name="PATH_ROW">39_19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.811131,-26.553883 -72.823826,-19.401172 -65.164817,-21.003898 -66.746149,-28.258371 -74.811131,-26.553883</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">20</SimpleData>
+		<SimpleData name="PATH">39</SimpleData>
+		<SimpleData name="PATH_ROW">39_20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-76.655054,-32.436547 -74.462238,-25.328907 -66.46303,-26.945181 -68.114318,-34.202978 -76.655054,-32.436547</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">21</SimpleData>
+		<SimpleData name="PATH">39</SimpleData>
+		<SimpleData name="PATH_ROW">39_21</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-78.765188,-38.306177 -76.263147,-31.209971 -67.816187,-32.893758 -69.559586,-40.121215 -78.765188,-38.306177</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">22</SimpleData>
+		<SimpleData name="PATH">39</SimpleData>
+		<SimpleData name="PATH_ROW">39_22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-81.210907,-44.113574 -78.309954,-37.07885 -69.239949,-38.81045 -71.154865,-46.043417 -81.210907,-44.113574</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">23</SimpleData>
+		<SimpleData name="PATH">39</SimpleData>
+		<SimpleData name="PATH_ROW">39_23</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.150913,-49.858093 -80.679325,-42.908442 -70.793723,-44.715256 -72.96971,-51.943909 -84.150913,-49.858093</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">24</SimpleData>
+		<SimpleData name="PATH">39</SimpleData>
+		<SimpleData name="PATH_ROW">39_24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-87.852522,-55.526301 -83.501014,-48.664076 -72.549573,-50.61521 -75.116195,-57.81016 -87.852522,-55.526301</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">14</SimpleData>
+		<SimpleData name="PATH">40</SimpleData>
+		<SimpleData name="PATH_ROW">40_14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.508673,3.137176 -70.961353,10.383182 -63.676645,8.765531 -65.308196,1.553409 -72.508673,3.137176</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">15</SimpleData>
+		<SimpleData name="PATH">40</SimpleData>
+		<SimpleData name="PATH_ROW">40_15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.81764,-2.815121 -72.241096,4.412965 -65.034859,2.818356 -66.614389,-4.416213 -73.81764,-2.815121</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">16</SimpleData>
+		<SimpleData name="PATH">40</SimpleData>
+		<SimpleData name="PATH_ROW">40_16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-75.174285,-8.761459 -73.546389,-1.558191 -66.345395,-3.134834 -67.895032,-10.384874 -75.174285,-8.761459</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">17</SimpleData>
+		<SimpleData name="PATH">40</SimpleData>
+		<SimpleData name="PATH_ROW">40_17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-76.61241,-14.720345 -74.885841,-7.503694 -67.637031,-9.112844 -69.157432,-16.328017 -76.61241,-14.720345</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">18</SimpleData>
+		<SimpleData name="PATH">40</SimpleData>
+		<SimpleData name="PATH_ROW">40_18</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-78.147002,-20.64864 -76.308106,-13.455596 -68.897629,-15.061489 -70.434773,-22.29667 -78.147002,-20.64864</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">19</SimpleData>
+		<SimpleData name="PATH">40</SimpleData>
+		<SimpleData name="PATH_ROW">40_19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.813574,-26.557448 -77.82226,-19.397221 -70.166002,-21.007169 -71.744133,-28.25541 -79.813574,-26.557448</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">20</SimpleData>
+		<SimpleData name="PATH">40</SimpleData>
+		<SimpleData name="PATH_ROW">40_20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-81.659384,-32.440744 -79.461695,-25.323528 -71.462393,-26.94735 -73.111217,-34.201713 -81.659384,-32.440744</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">21</SimpleData>
+		<SimpleData name="PATH">40</SimpleData>
+		<SimpleData name="PATH_ROW">40_21</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-83.764587,-38.307873 -81.259688,-31.209262 -72.820616,-32.898107 -74.559282,-40.116177 -83.764587,-38.307873</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">22</SimpleData>
+		<SimpleData name="PATH">40</SimpleData>
+		<SimpleData name="PATH_ROW">40_22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-86.212554,-44.11601 -83.307729,-37.076552 -74.242306,-38.813456 -76.153157,-46.040309 -86.212554,-44.11601</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">23</SimpleData>
+		<SimpleData name="PATH">40</SimpleData>
+		<SimpleData name="PATH_ROW">40_23</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-89.154939,-49.860765 -85.677941,-42.904791 -75.793891,-44.717298 -77.966973,-51.942565 -89.154939,-49.860765</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">24</SimpleData>
+		<SimpleData name="PATH">40</SimpleData>
+		<SimpleData name="PATH_ROW">40_24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-92.853576,-55.527925 -88.498221,-48.663016 -77.553117,-50.617745 -80.114487,-57.807253 -92.853576,-55.527925</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">14</SimpleData>
+		<SimpleData name="PATH">41</SimpleData>
+		<SimpleData name="PATH_ROW">41_14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-77.508498,3.134499 -75.958493,10.385068 -68.680336,8.760699 -70.307578,1.559105 -77.508498,3.134499</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">15</SimpleData>
+		<SimpleData name="PATH">41</SimpleData>
+		<SimpleData name="PATH_ROW">41_15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-78.819299,-2.818848 -77.239295,4.416669 -70.036715,2.814507 -71.612713,-4.41231 -78.819299,-2.818848</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">16</SimpleData>
+		<SimpleData name="PATH">41</SimpleData>
+		<SimpleData name="PATH_ROW">41_16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-80.177771,-8.766184 -78.545658,-1.5527 -71.345425,-3.137621 -72.892284,-10.382785 -80.177771,-8.766184</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">17</SimpleData>
+		<SimpleData name="PATH">41</SimpleData>
+		<SimpleData name="PATH_ROW">41_17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-81.606066,-14.703858 -79.896522,-7.51953 -72.625693,-9.092381 -74.164235,-16.349156 -81.606066,-14.703858</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">18</SimpleData>
+		<SimpleData name="PATH">41</SimpleData>
+		<SimpleData name="PATH_ROW">41_18</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-83.146221,-20.65063 -81.304656,-13.454576 -73.90198,-15.066697 -75.434697,-22.290639 -83.146221,-20.65063</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">19</SimpleData>
+		<SimpleData name="PATH">41</SimpleData>
+		<SimpleData name="PATH_ROW">41_19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.814763,-26.560354 -82.819937,-19.394461 -75.168445,-21.011129 -76.742872,-28.251339 -84.814763,-26.560354</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">20</SimpleData>
+		<SimpleData name="PATH">41</SimpleData>
+		<SimpleData name="PATH_ROW">41_20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-86.662527,-32.444363 -84.460437,-25.319225 -76.462955,-26.950144 -78.108822,-34.199452 -86.662527,-32.444363</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">21</SimpleData>
+		<SimpleData name="PATH">41</SimpleData>
+		<SimpleData name="PATH_ROW">41_21</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-88.756182,-38.294681 -86.270787,-31.222623 -77.809904,-32.88141 -79.566995,-40.132607 -88.756182,-38.294681</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">22</SimpleData>
+		<SimpleData name="PATH">41</SimpleData>
+		<SimpleData name="PATH_ROW">41_22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-91.213303,-44.117831 -88.304665,-37.074979 -79.245539,-38.817093 -81.152312,-46.036606 -91.213303,-44.117831</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">23</SimpleData>
+		<SimpleData name="PATH">41</SimpleData>
+		<SimpleData name="PATH_ROW">41_23</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-94.157862,-49.863355 -90.676349,-42.901951 -80.795214,-44.719485 -82.964398,-51.940489 -94.157862,-49.863355</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">24</SimpleData>
+		<SimpleData name="PATH">41</SimpleData>
+		<SimpleData name="PATH_ROW">41_24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.839415,-55.518122 -93.508782,-48.674237 -82.544502,-50.607133 -85.126269,-57.816872 -97.839415,-55.518122</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">14</SimpleData>
+		<SimpleData name="PATH">42</SimpleData>
+		<SimpleData name="PATH_ROW">42_14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-82.506961,3.132653 -80.954799,10.385605 -73.685378,8.755061 -75.307804,1.566155 -82.506961,3.132653</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">15</SimpleData>
+		<SimpleData name="PATH">42</SimpleData>
+		<SimpleData name="PATH_ROW">42_15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-83.819581,-2.82176 -82.236665,4.418993 -75.039945,2.809848 -76.611867,-4.407033 -83.819581,-2.82176</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">16</SimpleData>
+		<SimpleData name="PATH">42</SimpleData>
+		<SimpleData name="PATH_ROW">42_16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-85.179886,-8.770123 -83.54411,-1.548584 -76.34683,-3.141209 -77.890349,-10.379335 -85.179886,-8.770123</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">17</SimpleData>
+		<SimpleData name="PATH">42</SimpleData>
+		<SimpleData name="PATH_ROW">42_17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-86.610016,-14.708697 -84.896017,-7.513691 -77.625276,-9.094896 -79.161247,-16.347516 -86.610016,-14.708697</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">18</SimpleData>
+		<SimpleData name="PATH">42</SimpleData>
+		<SimpleData name="PATH_ROW">42_18</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-88.137116,-20.633362 -86.313938,-13.4724 -78.89323,-15.048179 -80.443059,-22.308734 -88.137116,-20.633362</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">19</SimpleData>
+		<SimpleData name="PATH">42</SimpleData>
+		<SimpleData name="PATH_ROW">42_19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-89.814668,-26.562637 -87.816903,-19.392918 -80.17217,-21.015736 -81.742324,-28.246136 -89.814668,-26.562637</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">20</SimpleData>
+		<SimpleData name="PATH">42</SimpleData>
+		<SimpleData name="PATH_ROW">42_20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-91.664497,-32.447372 -89.458435,-25.315987 -81.464694,-26.953584 -83.107168,-34.196216 -91.664497,-32.447372</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">21</SimpleData>
+		<SimpleData name="PATH">42</SimpleData>
+		<SimpleData name="PATH_ROW">42_21</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-93.760128,-38.298273 -91.269832,-31.218004 -82.809767,-32.883716 -84.564197,-40.13107 -93.760128,-38.298273</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">22</SimpleData>
+		<SimpleData name="PATH">42</SimpleData>
+		<SimpleData name="PATH_ROW">42_22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-96.199541,-44.104147 -93.313458,-37.090884 -84.239389,-38.803831 -86.16309,-46.048189 -96.199541,-44.104147</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">23</SimpleData>
+		<SimpleData name="PATH">42</SimpleData>
+		<SimpleData name="PATH_ROW">42_23</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-99.160034,-49.865351 -95.673869,-42.899666 -85.797249,-44.722279 -87.962751,-51.937992 -99.160034,-49.865351</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid_amazonia1_wfi_sa">
+		<SimpleData name="ROW">24</SimpleData>
+		<SimpleData name="PATH">42</SimpleData>
+		<SimpleData name="PATH_ROW">42_24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-102.843977,-55.520475 -98.507446,-48.670843 -87.544455,-50.608784 -90.123167,-57.815901 -102.843977,-55.520475</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
