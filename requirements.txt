@@ -7,3 +7,5 @@ geopandas
 Pillow
 astropy
 fastkml
+folium
+streamlit_folium
