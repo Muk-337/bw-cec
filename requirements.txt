@@ -7,5 +7,6 @@ geopandas
 Pillow
 astropy
 fastkml
-folium=0.20.0
+folium
 streamlit_folium
+import folium
