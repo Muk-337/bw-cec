@@ -95,7 +95,7 @@ st.markdown("---")
     # --- Patch Notes (expander pronto para você escrever) ---
     with st.expander("🧩 Patch Notes", expanded=False):
         st.caption("### Versão 3.4.6 (Atual)")
-        st.caption("### Versão 3.4.6 (Em Desenvolvimento)")
+        st.caption("### Versão 3.4.7 (Em Desenvolvimento)")
         st.markdown("""
         - Adição de suporte a múltiplos tipos de dados. (Chegando)
         - Adição de configurações de aparência/acessibilidade. (Chegando)
@@ -106,7 +106,7 @@ st.markdown("---")
         """)
         
     st.markdown("---")
-    st.caption("© 2025 - Dashboard Final Prototype")
+    st.caption("© 2025 - Dashboard Final Prototype (V:3.4.4")
 
 # ------------------------
 # Estilo — remove padding e aplica fade-in
@@ -155,6 +155,7 @@ st.markdown("---")
 # --- Tabela ---
 st.markdown("## 📋 Tabela de Dados (Filtros aplicados)")
 st.dataframe(df, height=600, use_container_width=True)
+
 
 
 
