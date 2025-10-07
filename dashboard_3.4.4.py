@@ -91,9 +91,8 @@ with st.sidebar:
     3. Tudo muda automaticamente conforme os filtros.  
     """)
 
-with st.sidebar
-st.markdown("---")
-    # --- Patch Notes (expander pronto para você escrever) ---
+st.sidebar.markdown("#---")
+    # --- Patch Notes (expander pronto) ---
     with st.expander("🧩 Patch Notes", expanded=False):
         st.caption("### Versão 3.4.6 (Atual)")
         st.caption("### Versão 3.4.7 (Em Desenvolvimento)")
@@ -156,6 +155,7 @@ st.markdown("---")
 # --- Tabela ---
 st.markdown("## 📋 Tabela de Dados (Filtros aplicados)")
 st.dataframe(df, height=600, use_container_width=True)
+
 
 
 
