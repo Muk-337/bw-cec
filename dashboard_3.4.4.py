@@ -90,7 +90,8 @@ with st.sidebar:
     2. Role a área principal para ver o mapa, estatísticas e tabela.  
     3. Tudo muda automaticamente conforme os filtros.  
     """)
-    
+
+with st.sidebar
 st.markdown("---")
     # --- Patch Notes (expander pronto para você escrever) ---
     with st.expander("🧩 Patch Notes", expanded=False):
@@ -155,6 +156,7 @@ st.markdown("---")
 # --- Tabela ---
 st.markdown("## 📋 Tabela de Dados (Filtros aplicados)")
 st.dataframe(df, height=600, use_container_width=True)
+
 
 
 
