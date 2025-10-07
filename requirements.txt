@@ -9,4 +9,3 @@ astropy
 fastkml
 folium
 streamlit_folium
-import folium
