@@ -90,7 +90,21 @@ with st.sidebar:
     2. Role a área principal para ver o mapa, estatísticas e tabela.  
     3. Tudo muda automaticamente conforme os filtros.  
     """)
-
+    
+st.markdown("---")
+    # --- Patch Notes (expander pronto para você escrever) ---
+    with st.expander("🧩 Patch Notes", expanded=False):
+        st.caption("### Versão 3.4.6 (Atual)")
+        st.caption("### Versão 3.4.6 (Em Desenvolvimento)")
+        st.markdown("""
+        - Adição de suporte a múltiplos tipos de dados. (Chegando)
+        - Adição de configurações de aparência/acessibilidade. (Chegando)
+        - Adição de expanções dos menus. (Chegando)
+        - Adição de menus de feedback. (Chegando)
+        - Melhoria na performance do mapa. (Chegando)
+        - Adição de tradução na interface. (Chegando)
+        """)
+        
     st.markdown("---")
     st.caption("© 2025 - Dashboard Final Prototype")
 
@@ -141,5 +155,6 @@ st.markdown("---")
 # --- Tabela ---
 st.markdown("## 📋 Tabela de Dados (Filtros aplicados)")
 st.dataframe(df, height=600, use_container_width=True)
+
 
 
