@@ -82,7 +82,7 @@ with st.sidebar:
     st.markdown("_(CEC - 2 TEAM: Murilo; Gabriel; Estevão; Guilherme; Lucca; Pedro.)_")
 
     st.subheader("💡 Sobre o Projeto")
-    st.markdown("_(Projeto baseado no desafio BloomFlower: An Earth Observation Application for Global Flowering Phenology, Desenvolvido pela a equipe representante do Colégio Espaço Cultural para o Hackateen 2025)_")
+    st.markdown("_(Projeto baseado no desafio BloomFlower: An Earth Observation Application for Global Flowering Phenology, Desenvolvido pela a equipe representante do Colégio Espaço Cultural para o[...)")
 
     st.subheader("🕹️ Como Usar")
     st.markdown("""
@@ -91,7 +91,7 @@ with st.sidebar:
     3. Tudo muda automaticamente conforme os filtros.  
     """)
 
-st.sidebar:markdown("#---")
+    st.markdown("#---")
     # --- Patch Notes (expander pronto) ---
     with st.expander("🧩 Patch Notes", expanded=False):
         st.caption("### Versão 3.4.6 (Atual)")
@@ -155,6 +155,7 @@ st.markdown("---")
 # --- Tabela ---
 st.markdown("## 📋 Tabela de Dados (Filtros aplicados)")
 st.dataframe(df, height=600, use_container_width=True)
+
 
 
 
