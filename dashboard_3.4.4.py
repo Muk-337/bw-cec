@@ -132,6 +132,44 @@ header[data-testid=\"stHeader\"] {
 """, unsafe_allow_html=True)
 
 # ------------------------
+# Sublinks reais via query params
+# ------------------------
+query_params = st.experimental_get_query_params()
+page = query_params.get("page", ["dashboard"])[0]  # default é 'dashboard'
+
+if page == "dashboard":
+    # Corpo principal do dashboard
+    df = filtered_df(base_df, cat_sel, min_val, region_sel)
+
+    st.markdown("## 🗺️ Mapa Interativo (Filtros aplicados)")
+    folium_map = make_folium_map(df)
+    st_folium(folium_map, width="100%", height=680)
+    st.markdown("---")
+
+    st.markdown("## 📊 Estatísticas")
+    st.write({
+        "Contagem": int(df.shape[0]),
+        "Média (valor)": float(df["valor"].mean()) if not df.empty else None,
+        "Máximo (valor)": int(df["valor"].max()) if not df.empty else None,
+        "Mínimo (valor)": int(df["valor"].min()) if not df.empty else None,
+    })
+    st.markdown("---")
+
+    st.markdown("## 📋 Tabela de Dados (Filtros aplicados)")
+    st.dataframe(df, height=600, use_container_width=True)
+
+elif page == "algoamais":
+    # Página extra (conteúdo diferente)
+    st.markdown("# 🧩 Página Extra (Sublink real)")
+    st.markdown("Essa é outra página, totalmente diferente do dashboard principal.")
+    st.markdown("Você pode colocar gráficos, imagens, textos ou outra tabela aqui.")
+
+elif page == "outra_coisa":
+    # Exemplo de mais um sublink
+    st.markdown("# 🌟 Outra Página")
+    st.markdown("Você pode criar quantos sublinks quiser, apenas adicionando elif page == 'nome': ...")
+
+# ------------------------
 # Corpo principal
 # ------------------------
 df = filtered_df(base_df, cat_sel, min_val, region_sel)
@@ -155,6 +193,7 @@ st.markdown("---")
 # --- Tabela ---
 st.markdown("## 📋 Tabela de Dados (Filtros aplicados)")
 st.dataframe(df, height=600, use_container_width=True)
+
 
 
 
