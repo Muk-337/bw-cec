@@ -106,6 +106,7 @@ with st.sidebar:
         """)
         
     st.markdown("---")
+    st.caption("FeedBack e Duvidas em support-mf@bw-cec.earth")
     st.caption("© 2025 - Dashboard Final Prototype (V:3.4.4")
 
 # ------------------------
@@ -193,6 +194,7 @@ st.markdown("---")
 # --- Tabela ---
 st.markdown("## 📋 Tabela de Dados (Filtros aplicados)")
 st.dataframe(df, height=600, use_container_width=True)
+
 
 
 
