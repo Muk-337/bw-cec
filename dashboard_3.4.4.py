@@ -80,9 +80,10 @@ with st.sidebar:
     st.markdown("---")
     st.subheader("🧾 Créditos")
     st.markdown("_(CEC - 2 TEAM: Murilo; Gabriel; Estevão; Guilherme; Lucca; Pedro.)_")
+    st.caption("FeedBack e Duvidas em support-mf@bw-cec.earth")
 
     st.subheader("💡 Sobre o Projeto")
-    st.markdown("_(Projeto baseado no desafio BloomFlower: An Earth Observation Application for Global Flowering Phenology, Desenvolvido pela a equipe representante do Colégio Espaço Cultural para o[...)")
+    st.markdown("_(Projeto baseado no desafio BloomFlower: An Earth Observation Application for Global Flowering Phenology, Desenvolvido pela a equipe representante do Colégio Espaço Cultural para o NASA internacional space apps challenge hackathon 2025")
 
     st.subheader("🕹️ Como Usar")
     st.markdown("""
@@ -106,7 +107,6 @@ with st.sidebar:
         """)
         
     st.markdown("---")
-    st.caption("FeedBack e Duvidas em support-mf@bw-cec.earth")
     st.caption("© 2025 - Dashboard Final Prototype (V:3.4.4")
 
 # ------------------------
@@ -194,6 +194,7 @@ st.markdown("---")
 # --- Tabela ---
 st.markdown("## 📋 Tabela de Dados (Filtros aplicados)")
 st.dataframe(df, height=600, use_container_width=True)
+
 
 
 
