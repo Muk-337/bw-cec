@@ -98,6 +98,7 @@ with st.sidebar:
         st.caption("### Versão 3.4.6 (Atual)")
         st.caption("### Versão 3.4.7 (Em Desenvolvimento)")
         st.markdown("""
+        - GRANDE ATUALIZAÇÃO: 08/11.
         - Adição de suporte a múltiplos tipos de dados. (Chegando)
         - Adição de configurações de aparência/acessibilidade. (Chegando)
         - Adição de expanções dos menus. (Chegando)
@@ -194,6 +195,7 @@ st.markdown("---")
 # --- Tabela ---
 st.markdown("## 📋 Tabela de Dados (Filtros aplicados)")
 st.dataframe(df, height=600, use_container_width=True)
+
 
 
 
