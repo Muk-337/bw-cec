@@ -67,6 +67,7 @@ def make_folium_map(df):
 # ------------------------
 with st.sidebar:
     st.markdown("## 🌍 Dashboard 2D - Projeto Exemplo")
+    st.markdown("## Grande Atualização e abertura de adição de dados chegando em 08/11") 
     st.markdown("---")
 
     st.subheader("🔎 Filtros")
@@ -195,6 +196,7 @@ st.markdown("---")
 # --- Tabela ---
 st.markdown("## 📋 Tabela de Dados (Filtros aplicados)")
 st.dataframe(df, height=600, use_container_width=True)
+
 
 
 
